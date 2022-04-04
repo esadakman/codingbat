@@ -1,5 +1,5 @@
 # CodingBat
-=========
+
 
 Solutions to CodingBat problems.
 
